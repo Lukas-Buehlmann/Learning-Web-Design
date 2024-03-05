@@ -1,0 +1,19 @@
+* {
+    color:white;
+    background-color: #282828;
+
+    font-family: 'Roboto', sans-serif;
+}
+
+.fadeInText {
+    animation: fadeIn 5s;
+}
+
+@keyframes fadeIn {
+    0% {opacity: 0;}
+    100% {opacity: 1;}
+}
+
+.infoBox {
+    font-size: 4em;
+}
