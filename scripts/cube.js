@@ -435,7 +435,7 @@ var scale = [  // the two values can be changed from one to scale dimensions
 ];
 
 var theta = 0;
-var dim = 5;
+var dim = 4;
 
 var cube = transposeArray(createCube(dim));
 for (let i=0;i < cube.length;i++) {
